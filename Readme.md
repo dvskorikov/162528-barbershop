@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Дмитрий Скориков](https://htmlacademy.ru/profile/id162528).
+* Наставник: [Денис Байдаров](https://htmlacademy.ru/profile/4er).
 
 ---
 
